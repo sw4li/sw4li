@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/swalihep" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="swalihep" height="30" width="40" /></a>
 <a href="https://instagram.com/sw4li_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sw4li_" height="30" width="40" /></a>
 <a href="https://medium.com/@swalih22hmuhammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swalih22hmuhammed" height="30" width="40" /></a>
-<a href="https://discord.gg/#0837" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sw4li_#0837" height="30" width="40" /></a>
+<a href="https://discord.gg/XQ7rCYnk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sw4li_#0837" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
